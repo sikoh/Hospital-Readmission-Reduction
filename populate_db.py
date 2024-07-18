@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 # Connect to the database
 conn = psycopg2.connect(
     dbname="patientcare_ab_test",
-    user="[enter_name]", 
+    user="[enter_name]",
     password="[enter_pw]",
     host="localhost",
     port="5432"
