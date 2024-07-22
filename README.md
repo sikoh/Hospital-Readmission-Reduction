@@ -1,2 +1,2 @@
-# hospital-readmission-reduction
+# Hospital Readmission Reduction
 A/B Test Project
